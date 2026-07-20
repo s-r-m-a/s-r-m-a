@@ -45,16 +45,19 @@
 <div align="center">
 
 ### Languages
+
 <img src="https://skillicons.dev/icons?i=cpp,python,kotlin,java,js,html,css,cmake" />
 
 <br /><br />
 
 ### Frameworks & Tools
+
 <img src="https://skillicons.dev/icons?i=qt,androidstudio,opencv,git,github,visualstudio,vscode,gradle" />
 
 <br /><br />
 
 ### Platforms & Environment
+
 <img src="https://skillicons.dev/icons?i=windows,linux,sqlite,firebase" />
 
 </div>
@@ -131,9 +134,11 @@
 </div>
 
 ### 🧠 AvaQt
+
 > A modular desktop assistant built with **C++17**, **Qt6**, and a clean internal event architecture.
 
 **Tech Highlights:**
+
 - C++17 / Qt6
 - Modular Assistant Architecture
 - AppBus Signal/Slot System
@@ -142,78 +147,113 @@
 - Vosk / Porcupine C API integration
 - CMake
 - `nlohmann_json`
-```txt
+
+<pre>
 AvaQt = Modular Assistant + Qt UI + Native Tools + Voice Integration
+</pre>
+
+---
 
 ### 🔐 RezaSafePro
+
 > A Windows-focused secure file protection tool.
 
 **Tech Highlights:**
+
 - C++
 - Custom `.rzlock` format
 - Windows CNG API
 - No OpenSSL dependency
 - Version: `v1.5.2`
 
-txt
+<pre>
 Secure file locking with native Windows crypto.
+</pre>
+
+---
 
 ### 📱 ReTimez
+
 > Android app built with **Kotlin** and **Jetpack Compose**.
 
 **Focus:**
+
 - Modern Compose UI
 - Clean Android structure
 - Practical productivity-oriented features
 
+---
+
 ### 🧮 Hesaab Resa
+
 > Android calculator / accounting-style project powered by Kotlin and symbolic math ideas.
 
 **Tech Highlights:**
+
 - Kotlin
 - Android
 - Symja
 - Calculation Logic
 - Persian-friendly UX
 
+---
+
 ### 🧪 CalculatorApp
+
 > Desktop calculator built with **C++ / Qt / CMake**.
 
 **Tech Highlights:**
+
 - Qt Widgets
 - CMake
 - Clean calculator logic
 - Desktop UI
 
+---
+
 ### 🧰 DevDesk
+
 > Modular desktop UI project using **Qt / C++**.
 
 **Focus:**
+
 - Developer dashboard concept
 - Modular UI
 - Tool-based workspace
 
+---
+
 ### 🎮 BoardMap
+
 > Android / Compose circuit simulation game concept.
 
 **Tech Highlights:**
+
 - Kotlin
 - Jetpack Compose
 - Simulation-like gameplay
 - Circuit-inspired logic
 
+---
+
 ### 🐍 RepGX
+
 > Python-based side project.
 
 **Focus:**
+
 - Automation
 - Utility scripting
 - Python module structure
 
+---
+
 ### 🎵 Rezonance
+
 > Python project, version `v1.7`.
 
 **Focus:**
+
 - Python tooling
 - Experimental application structure
 
@@ -245,35 +285,44 @@ Secure file locking with native Windows crypto.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=800&lines=Modular+Design;Clean+Project+Structure;Signal%2FSlot+Architecture;Reusable+Components;Practical+Software+Engineering" />
 </div>
 
-cpp
+### C++ Mindset
+
+<pre>
 class RezaStyle {
 public:
-void build() {
-use_ModularArchitecture();
-keep_UI_Clean();
-separate_Logic_From_View();
-connect_With_SignalSlot();
-ship_PracticalTools();
-}
+    void build() {
+        use_ModularArchitecture();
+        keep_UI_Clean();
+        separate_Logic_From_View();
+        connect_With_SignalSlot();
+        ship_PracticalTools();
+    }
 };
+</pre>
 
-kotlin
+### Kotlin Mindset
+
+<pre>
 @Composable
 fun RezaMindset() {
-CleanUI()
-ModularComponents()
-PracticalFeatures()
-PersianFriendlyExperience()
+    CleanUI()
+    ModularComponents()
+    PracticalFeatures()
+    PersianFriendlyExperience()
 }
+</pre>
 
-python
+### Python Mindset
+
+<pre>
 def reza_project():
-return {
-"style": "modular",
-"goal": "useful tools",
-"focus": ["automation", "productivity", "experiments"],
-"energy": "high"
-}
+    return {
+        "style": "modular",
+        "goal": "useful tools",
+        "focus": ["automation", "productivity", "experiments"],
+        "energy": "high"
+    }
+</pre>
 
 ---
 
@@ -325,12 +374,13 @@ return {
 
 ## 🎯 Current Focus
 
-txt
+<pre>
 C++ / Qt Desktop Apps
 Android Kotlin Compose
 Computer Vision Experiments
 Python Utility Tools
 Clean Modular Architecture
+</pre>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd4e5-4242-483c-b775-fdaa22fc1a1f.gif" width="700" />
@@ -356,7 +406,7 @@ Clean Modular Architecture
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=F7D747&center=true&vCenter=true&width=900&lines=Think+clearly.;Design+modularly.;Build+practically.;Debug+patiently.;Ship+confidently." />
 </div>
 
-txt
+<pre>
 Idea
   ↓
 Prototype
@@ -366,6 +416,7 @@ Clean Architecture
 Real Application
   ↓
 Better Version
+</pre>
 
 ---
 
@@ -417,13 +468,3 @@ Better Version
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20,24,30&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontAlign=50&fontAlignY=65&animation=twinkling" />
 </div>
-
-
----
-
-## خیلی مهم
-اگر خواستی این README واقعاً روی **پروفایل گیت‌هابت** نمایش داده شود:
-
-- اسم ریپو باید دقیقاً این باشد:
-```txt
-s-r-m-a
