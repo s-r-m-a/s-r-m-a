@@ -293,7 +293,7 @@ My usual development approach:
 
 ---
 
-## Personal Engineering Notes
+## My Favorite
 
 - I like modular architecture.
 - I prefer readable code over clever but confusing code.
@@ -319,15 +319,15 @@ My usual development approach:
 
 <br /><br />
 
-<a href="https://ble.ir/YOUR_BALE_CHANNEL">
+<a href="https://ble.ir/retool">
   <img src="https://img.shields.io/badge/Bale-Channel-00AEEF?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL">
+<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL](https://web.rubika.ir/#c=c0Dfcwj06cb22c3c7d8a260c9d9b1e5c">
   <img src="https://img.shields.io/badge/Rubika-Channel-8A2BE2?style=for-the-badge&logo=googlemessages&logoColor=white" />
 </a>
 
-<a href="https://splus.ir/YOUR_SOROUSH_CHANNEL">
+<a href="https://splus.ir/retool">
   <img src="https://img.shields.io/badge/Soroush-Channel-FF7A00?style=for-the-badge&logo=googlechat&logoColor=white" />
 </a>
 
@@ -349,7 +349,7 @@ Email: **irannavyreza@gmail.com**
 
 <h2 id="persian">فارسی</h2>
 
-## درباره من
+## من را بیشتر بشناسید
 
 سلام، من **رضا** هستم؛ توسعه‌دهنده نرم‌افزار از ایران. به ساخت ابزارهای کاربردی، برنامه‌های دسکتاپ، اپلیکیشن‌های اندروید، ابزارهای اتوماسیون و پروژه‌های تجربی علاقه دارم.
 
@@ -618,7 +618,7 @@ Email: **irannavyreza@gmail.com**
 
 ---
 
-## یادداشت‌های شخصی مهندسی
+## علاقه مندی هایم
 
 - معماری ماژولار را دوست دارم.
 - کد خوانا را به کد بیش از حد پیچیده ترجیح می‌دهم.
@@ -630,7 +630,7 @@ Email: **irannavyreza@gmail.com**
 
 ---
 
-## ارتباط با من و کانال‌ها
+## ارتباط با من
 
 <div align="center">
 
@@ -644,15 +644,15 @@ Email: **irannavyreza@gmail.com**
 
 <br /><br />
 
-<a href="https://ble.ir/YOUR_BALE_CHANNEL">
+<a href="https://ble.ir/retool">
   <img src="https://img.shields.io/badge/Bale-Channel-00AEEF?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL">
+<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL](https://web.rubika.ir/#c=c0Dfcwj06cb22c3c7d8a260c9d9b1e5c">
   <img src="https://img.shields.io/badge/Rubika-Channel-8A2BE2?style=for-the-badge&logo=googlemessages&logoColor=white" />
 </a>
 
-<a href="https://splus.ir/YOUR_SOROUSH_CHANNEL">
+<a href="https://splus.ir/retool">
   <img src="https://img.shields.io/badge/Soroush-Channel-FF7A00?style=for-the-badge&logo=googlechat&logoColor=white" />
 </a>
 
