@@ -323,7 +323,7 @@ My usual development approach:
   <img src="https://img.shields.io/badge/Bale-Channel-00AEEF?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL](https://web.rubika.ir/#c=c0Dfcwj06cb22c3c7d8a260c9d9b1e5c">
+<a href="https://web.rubika.ir/#c=c0Dfcwj06cb22c3c7d8a260c9d9b1e5c">
   <img src="https://img.shields.io/badge/Rubika-Channel-8A2BE2?style=for-the-badge&logo=googlemessages&logoColor=white" />
 </a>
 
@@ -648,7 +648,7 @@ Email: **irannavyreza@gmail.com**
   <img src="https://img.shields.io/badge/Bale-Channel-00AEEF?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL](https://web.rubika.ir/#c=c0Dfcwj06cb22c3c7d8a260c9d9b1e5c">
+<a href="https://web.rubika.ir/#c=c0Dfcwj06cb22c3c7d8a260c9d9b1e5c">
   <img src="https://img.shields.io/badge/Rubika-Channel-8A2BE2?style=for-the-badge&logo=googlemessages&logoColor=white" />
 </a>
 
