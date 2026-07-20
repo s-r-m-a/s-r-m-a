@@ -1,21 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20,24,30&text=Hi%20I'm%20Reza&fontSize=68&fontAlign=50&fontAlignY=38&desc=C%2B%2B%20%7C%20Qt%20%7C%20Android%20%7C%20Computer%20Vision%20%7C%20Python%20%7C%20Embedded&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Hi%20I'm%20Reza&fontSize=68&fontColor=ffffff&fontAlign=50&fontAlignY=37&desc=C%2B%2B%20%7C%20Qt%20%7C%20Android%20%7C%20Python%20%7C%20Computer%20Vision%20%7C%20ESP32&descSize=18&descAlign=50&descAlignY=58&animation=twinkling" />
 
 <a href="#english">
   <img src="https://img.shields.io/badge/English-0078D4?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </a>
-<a href="#فارسی">
+<a href="#persian">
   <img src="https://img.shields.io/badge/فارسی-00A86B?style=for-the-badge&logo=googletranslate&logoColor=white" />
 </a>
 
 <br /><br />
 
-<a href="https://github.com/s-r-m-a">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer+from+Iran;C%2B%2B+and+Qt+Developer;Android+Kotlin+Compose+Builder;Computer+Vision+Enthusiast;Python+and+Automation+Toolmaker;Exploring+Embedded+and+Low-Level+Programming" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer+from+Iran;C%2B%2B+and+Qt+Desktop+Developer;Android+Kotlin+Compose+Builder;Python+Automation+Toolmaker;Computer+Vision+Explorer;ESP32+and+Low-Level+Programming+Learner;I+enjoy+building+practical+and+clean+software" alt="Typing SVG" />
 
-<br />
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=s-r-m-a&label=Profile%20Views&color=00bcd4&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/s-r-m-a?label=Followers&style=for-the-badge&color=blue" />
@@ -28,23 +26,23 @@
 
 ## About Me
 
-Hi, I'm **Reza**, a software developer from Iran who enjoys building practical tools, clean desktop applications, Android apps, automation utilities, and experimental projects.
+Hi, I'm **Reza**, a software developer from Iran. I enjoy building practical tools, desktop applications, Android apps, automation utilities, and experimental projects.
 
-I like working on software that is understandable, maintainable, and actually useful. My favorite style is modular design, clear separation of responsibilities, and building features step by step until they become real working applications.
+I like software that is clean, understandable, and useful. My preferred style is modular development, separating responsibilities, and improving projects step by step instead of pretending everything is perfect from the beginning.
 
-I mostly work with:
+I mainly work with:
 
 - C++ and Qt for desktop applications
-- Kotlin and Jetpack Compose for Android development
+- Kotlin and Jetpack Compose for Android apps
 - Python for automation, tools, and prototypes
 - OpenCV for computer vision experiments
-- PowerShell and CMD for command-line and utility applications
-- Windows native development and GUI-based tools
-- Assembly basics and low-level programming experiments
+- PowerShell and CMD for command-line tools
+- EXE and GUI-based utility applications
+- Assembly and low-level programming experiments
 - ESP-IDF and ESP32 for embedded projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af9-910c-c37f35f2c210.gif" width="420" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208fb7-26c1-4f24-9b8b-5512fcd7107e.gif" width="420" />
 </div>
 
 ---
@@ -89,7 +87,7 @@ I mostly work with:
 <li>Signal and Slot design</li>
 <li>Native Windows integrations</li>
 <li>GUI applications</li>
-<li>Utility tools and productivity apps</li>
+<li>Desktop utility tools</li>
 </ul>
 
 </td>
@@ -104,7 +102,7 @@ I mostly work with:
 <li>Clean UI components</li>
 <li>Local data handling</li>
 <li>Calculator and simulation-style apps</li>
-<li>Persian-friendly application design</li>
+<li>Persian-friendly user experience</li>
 </ul>
 
 </td>
@@ -112,15 +110,16 @@ I mostly work with:
 <tr>
 <td width="50%">
 
-<h3>Command-Line and Scripting</h3>
+<h3>Command-Line and Automation</h3>
 
 <ul>
 <li>PowerShell applications</li>
 <li>CMD tools</li>
-<li>Colorful terminal interfaces</li>
+<li>Colorful terminal menus</li>
 <li>Menu-based command-line programs</li>
 <li>EXE utilities</li>
-<li>Automation scripts</li>
+<li>GUI tools made with scripting ideas</li>
+<li>Automation workflows</li>
 </ul>
 
 </td>
@@ -132,6 +131,7 @@ I mostly work with:
 <li>ESP32 projects with ESP-IDF</li>
 <li>Embedded experiments</li>
 <li>Assembly learning and development</li>
+<li>MASM32 SDK experiments</li>
 <li>Low-level programming concepts</li>
 <li>Hardware-oriented software ideas</li>
 </ul>
@@ -144,15 +144,15 @@ I mostly work with:
 
 ## Featured Projects
 
-### AvaQt
+### Ava
 
-A modular desktop assistant built with C++17, Qt6, and a clean internal event architecture.
+A modular desktop assistant built with C++17, Qt6, and a clean internal architecture.
 
 **Highlights:**
 
 - C++17 and Qt6
 - Modular assistant architecture
-- AppBus Signal and Slot system
+- Signal and Slot based communication
 - Persistent storage
 - Hotkey management with Win32 integration
 - Vosk and Porcupine C API integration
@@ -161,7 +161,7 @@ A modular desktop assistant built with C++17, Qt6, and a clean internal event ar
 
 ---
 
-### RezaSafePro
+### Reza Safe
 
 A Windows-focused secure file protection tool.
 
@@ -172,94 +172,7 @@ A Windows-focused secure file protection tool.
 - Windows CNG API
 - No OpenSSL dependency
 - Native Windows-focused design
-
----
-
-### ReTimez
-
-An Android app built with Kotlin and Jetpack Compose.
-
-**Focus:**
-
-- Modern Compose UI
-- Clean Android structure
-- Practical productivity-oriented features
-
----
-
-### Hesaab Resa
-
-An Android calculator and accounting-style project powered by Kotlin and symbolic math ideas.
-
-**Highlights:**
-
-- Kotlin
-- Android
-- Symja
-- Calculation logic
-- Persian-friendly user experience
-
----
-
-### CalculatorApp
-
-A desktop calculator built with C++, Qt, and CMake.
-
-**Highlights:**
-
-- Qt Widgets
-- CMake
-- Clean calculator logic
-- Desktop UI
-
----
-
-### DevDesk
-
-A modular desktop UI project built with Qt and C++.
-
-**Focus:**
-
-- Developer dashboard concept
-- Modular UI
-- Tool-based workspace
-
----
-
-### BoardMap
-
-An Android and Compose-based circuit simulation game concept.
-
-**Highlights:**
-
-- Kotlin
-- Jetpack Compose
-- Simulation-style logic
-- Circuit-inspired gameplay
-
----
-
-### RepGX
-
-A Python-based utility and automation side project.
-
-**Focus:**
-
-- Automation
-- Utility scripting
-- Python module structure
-
----
-
-### Rezonance
-
-A Python project focused on experimental application structure and tooling.
-
-**Focus:**
-
-- Python development
-- Utility features
-- Experimental project design
+- Practical file protection workflow
 
 ---
 
@@ -283,20 +196,20 @@ A Python project focused on experimental application structure and tooling.
 <td>Visual Studio, Android Studio, VS Code</td>
 </tr>
 <tr>
+<td>Desktop</td>
+<td>Qt, Win32 API, GUI utilities, native Windows tools</td>
+</tr>
+<tr>
 <td>Android</td>
 <td>Kotlin, Jetpack Compose, Gradle, Android Emulator</td>
 </tr>
 <tr>
 <td>Computer Vision</td>
-<td>OpenCV</td>
-</tr>
-<tr>
-<td>Windows Native</td>
-<td>Win32 API, CNG, Hotkeys, GUI utilities</td>
+<td>OpenCV, image processing experiments</td>
 </tr>
 <tr>
 <td>Command Line</td>
-<td>PowerShell, CMD, colorful terminal menus, EXE tools</td>
+<td>PowerShell, CMD, colorful menus, interactive terminal tools</td>
 </tr>
 <tr>
 <td>Embedded</td>
@@ -308,7 +221,7 @@ A Python project focused on experimental application structure and tooling.
 </tr>
 <tr>
 <td>Packaging</td>
-<td>Inno Setup</td>
+<td>Inno Setup, EXE tool creation</td>
 </tr>
 <tr>
 <td>Python</td>
@@ -325,12 +238,12 @@ A Python project focused on experimental application structure and tooling.
 ## Architecture Style I Like
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Modular+Design;Clean+Project+Structure;Signal+and+Slot+Architecture;Reusable+Components;Practical+Software+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Modular+Design;Clean+Project+Structure;Readable+Code;Reusable+Components;Signal+and+Slot+Architecture;Practical+Software+Engineering" alt="Architecture Typing SVG" />
 </div>
 
-I prefer software structures that are easy to understand and extend. I usually try to keep the UI, logic, storage, and platform-specific parts separated as much as possible.
+I prefer software structures that are easy to understand, debug, and extend. I usually try to keep the UI, business logic, storage, and platform-specific parts separated as much as possible.
 
-My preferred development approach:
+My usual development approach:
 
 - Start with a simple idea
 - Build a working prototype
@@ -345,24 +258,27 @@ My preferred development approach:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=F7D747&center=true&vCenter=true&width=900&lines=C%2B%2B+and+Qt+Desktop+Apps;Android+Apps+with+Kotlin+Compose;Computer+Vision+Experiments;Python+Automation+Tools;PowerShell+and+CMD+Utilities;ESP32+Projects+with+ESP-IDF;Assembly+and+Low-Level+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=850&color=F7D747&center=true&vCenter=true&width=950&lines=C%2B%2B+and+Qt+Desktop+Applications;Android+Apps+with+Kotlin+Compose;Python+Automation+and+Utility+Tools;Computer+Vision+Experiments;PowerShell+and+CMD+Applications;ESP32+Projects+with+ESP-IDF;Assembly+and+Low-Level+Programming" alt="Current Focus Typing SVG" />
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-r-m-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-r-m-a&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-r-m-a&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<br /><br />
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-r-m-a&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-r-m-a&theme=tokyonight" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=s-r-m-a&theme=tokyonight&hide_border=true" />
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=s-r-m-a&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -370,20 +286,8 @@ My preferred development approach:
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-r-m-a&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-r-m-a/s-r-m-a/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s-r-m-a/s-r-m-a/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/s-r-m-a/s-r-m-a/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s-r-m-a&theme=tokyo-night&hide_border=true&area=true&custom_title=Reza%27s%20GitHub%20Activity" />
 
 </div>
 
@@ -397,33 +301,59 @@ My preferred development approach:
 - I care about clean UI and maintainable structure.
 - I like experimenting with both high-level and low-level programming.
 - I usually work in a Windows-based development environment.
-- I believe steady improvement is better than pretending everything is perfect.
+- I believe steady improvement is better than trying to look perfect.
 
 ---
 
-## Connect With Me
+## Contact and Channels
 
 <div align="center">
 
-<a href="https://github.com/s-r-m-a">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:irannavyreza@gmail.com">
+  <img src="https://img.shields.io/badge/Email-irannavyreza%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="mailto:irannavyreza@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+<a href="https://github.com/s-r-m-a">
+  <img src="https://img.shields.io/badge/GitHub-s--r--m--a-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br /><br />
+
+<a href="https://ble.ir/YOUR_BALE_CHANNEL">
+  <img src="https://img.shields.io/badge/Bale-Channel-00AEEF?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL">
+  <img src="https://img.shields.io/badge/Rubika-Channel-8A2BE2?style=for-the-badge&logo=googlemessages&logoColor=white" />
+</a>
+
+<a href="https://splus.ir/YOUR_SOROUSH_CHANNEL">
+  <img src="https://img.shields.io/badge/Soroush-Channel-FF7A00?style=for-the-badge&logo=googlechat&logoColor=white" />
+</a>
+
+<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
+  <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+Email: **irannavyreza@gmail.com**
 
 </div>
 
 ---
 
-<h2 id="فارسی">فارسی</h2>
+<h2 id="persian">فارسی</h2>
 
 ## درباره من
 
-سلام، من **رضا** هستم؛ توسعه‌دهنده نرم‌افزار از ایران. به ساخت ابزارهای کاربردی، برنامه‌های دسکتاپ تمیز، اپلیکیشن‌های اندروید، ابزارهای اتوماسیون و پروژه‌های تجربی علاقه دارم.
+سلام، من **رضا** هستم؛ توسعه‌دهنده نرم‌افزار از ایران. به ساخت ابزارهای کاربردی، برنامه‌های دسکتاپ، اپلیکیشن‌های اندروید، ابزارهای اتوماسیون و پروژه‌های تجربی علاقه دارم.
 
-سعی می‌کنم نرم‌افزارهایی بسازم که هم قابل فهم باشند، هم قابل نگهداری، هم واقعاً به درد بخورند. سبک مورد علاقه‌ام طراحی ماژولار، جدا کردن بخش‌های مختلف برنامه و ساخت مرحله‌به‌مرحله پروژه تا رسیدن به یک نسخه قابل استفاده است.
+سعی می‌کنم نرم‌افزارهایی بسازم که تمیز، قابل فهم، قابل نگهداری و واقعاً کاربردی باشند. سبک مورد علاقه‌ام طراحی ماژولار، جدا کردن مسئولیت‌های مختلف برنامه و بهتر کردن پروژه‌ها به‌صورت مرحله‌به‌مرحله است.
 
 بیشتر با این حوزه‌ها کار می‌کنم:
 
@@ -431,10 +361,14 @@ My preferred development approach:
 - Kotlin و Jetpack Compose برای توسعه اندروید
 - Python برای اتوماسیون، ابزارسازی و نمونه‌سازی
 - OpenCV برای آزمایش‌های بینایی ماشین
-- PowerShell و CMD برای ابزارهای خط فرمان و برنامه‌های کمکی
-- توسعه برنامه‌های GUI و EXE در ویندوز
-- یادگیری و ساخت پروژه‌های اسمبلی و سطح پایین
+- PowerShell و CMD برای ابزارهای خط فرمان
+- ساخت ابزارهای EXE و GUI در ویندوز
+- اسمبلی و آزمایش‌های برنامه‌نویسی سطح پایین
 - ESP-IDF و ESP32 برای پروژه‌های امبدد
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a208fb7-26c1-4f24-9b8b-5512fcd7107e.gif" width="420" />
+</div>
 
 ---
 
@@ -478,7 +412,7 @@ My preferred development approach:
 <li>طراحی مبتنی بر Signal و Slot</li>
 <li>اتصال به قابلیت‌های Native ویندوز</li>
 <li>برنامه‌های GUI</li>
-<li>ابزارهای کاربردی و بهره‌وری</li>
+<li>ابزارهای کاربردی دسکتاپ</li>
 </ul>
 
 </td>
@@ -493,7 +427,7 @@ My preferred development approach:
 <li>کامپوننت‌های رابط کاربری تمیز</li>
 <li>مدیریت داده محلی</li>
 <li>برنامه‌های محاسباتی و شبیه‌سازی</li>
-<li>طراحی مناسب برای کاربران فارسی‌زبان</li>
+<li>تجربه کاربری مناسب فارسی‌زبان‌ها</li>
 </ul>
 
 </td>
@@ -501,15 +435,16 @@ My preferred development approach:
 <tr>
 <td width="50%">
 
-<h3>خط فرمان و اسکریپت‌نویسی</h3>
+<h3>خط فرمان و اتوماسیون</h3>
 
 <ul>
 <li>برنامه‌های PowerShell</li>
 <li>ابزارهای CMD</li>
-<li>رابط‌های رنگی در ترمینال</li>
+<li>منوهای رنگی در ترمینال</li>
 <li>برنامه‌های منومحور تحت فرمان</li>
 <li>ابزارهای EXE</li>
-<li>اسکریپت‌های اتوماسیون</li>
+<li>ابزارهای GUI با ایده‌های اسکریپتی</li>
+<li>فرآیندهای اتوماسیون</li>
 </ul>
 
 </td>
@@ -521,6 +456,7 @@ My preferred development approach:
 <li>پروژه‌های ESP32 با ESP-IDF</li>
 <li>آزمایش‌های امبدد</li>
 <li>یادگیری و ساخت پروژه با اسمبلی</li>
+<li>آزمایش با MASM32 SDK</li>
 <li>مفاهیم برنامه‌نویسی سطح پایین</li>
 <li>ایده‌های نرم‌افزاری مرتبط با سخت‌افزار</li>
 </ul>
@@ -533,15 +469,15 @@ My preferred development approach:
 
 ## پروژه‌های منتخب
 
-### AvaQt
+### Ava
 
-یک دستیار دسکتاپ ماژولار ساخته‌شده با C++17، Qt6 و معماری داخلی تمیز برای مدیریت رویدادها.
+یک دستیار دسکتاپ ماژولار ساخته‌شده با C++17، Qt6 و معماری داخلی تمیز.
 
 **ویژگی‌ها:**
 
 - C++17 و Qt6
 - معماری دستیار ماژولار
-- سیستم AppBus مبتنی بر Signal و Slot
+- ارتباط داخلی مبتنی بر Signal و Slot
 - ذخیره‌سازی پایدار
 - مدیریت Hotkey با Win32
 - اتصال به Vosk و Porcupine C API
@@ -550,7 +486,7 @@ My preferred development approach:
 
 ---
 
-### RezaSafePro
+### Reza Safe 
 
 یک ابزار محافظت از فایل برای ویندوز.
 
@@ -561,94 +497,7 @@ My preferred development approach:
 - استفاده از Windows CNG API
 - بدون وابستگی به OpenSSL
 - طراحی متمرکز بر ویندوز
-
----
-
-### ReTimez
-
-یک اپلیکیشن اندروید ساخته‌شده با Kotlin و Jetpack Compose.
-
-**تمرکز پروژه:**
-
-- رابط کاربری مدرن با Compose
-- ساختار تمیز اندرویدی
-- قابلیت‌های کاربردی برای بهره‌وری
-
----
-
-### Hesaab Resa
-
-یک پروژه اندرویدی در سبک ماشین‌حساب و حساب‌وکتاب، ساخته‌شده با Kotlin و ایده‌های ریاضی نمادین.
-
-**ویژگی‌ها:**
-
-- Kotlin
-- Android
-- Symja
-- منطق محاسباتی
-- تجربه کاربری مناسب فارسی‌زبان‌ها
-
----
-
-### CalculatorApp
-
-یک ماشین‌حساب دسکتاپ ساخته‌شده با C++، Qt و CMake.
-
-**ویژگی‌ها:**
-
-- Qt Widgets
-- CMake
-- منطق محاسباتی تمیز
-- رابط کاربری دسکتاپ
-
----
-
-### DevDesk
-
-یک پروژه رابط کاربری دسکتاپ ماژولار با Qt و C++.
-
-**تمرکز پروژه:**
-
-- ایده داشبورد توسعه‌دهنده
-- رابط کاربری ماژولار
-- محیط کاری ابزارمحور
-
----
-
-### BoardMap
-
-یک ایده بازی و شبیه‌ساز مدار با Android و Jetpack Compose.
-
-**ویژگی‌ها:**
-
-- Kotlin
-- Jetpack Compose
-- منطق شبیه‌سازی
-- گیم‌پلی الهام‌گرفته از مدار
-
----
-
-### RepGX
-
-یک پروژه جانبی با Python برای ابزارسازی و اتوماسیون.
-
-**تمرکز پروژه:**
-
-- اتوماسیون
-- اسکریپت‌نویسی کاربردی
-- ساختار ماژولار پایتونی
-
----
-
-### Rezonance
-
-یک پروژه Python با تمرکز روی ساختار تجربی برنامه و ابزارسازی.
-
-**تمرکز پروژه:**
-
-- توسعه با Python
-- قابلیت‌های کاربردی
-- طراحی تجربی پروژه
+- روند کاربردی برای محافظت از فایل‌ها
 
 ---
 
@@ -672,20 +521,20 @@ My preferred development approach:
 <td>Visual Studio, Android Studio, VS Code</td>
 </tr>
 <tr>
+<td>دسکتاپ</td>
+<td>Qt, Win32 API, GUI utilities, native Windows tools</td>
+</tr>
+<tr>
 <td>اندروید</td>
 <td>Kotlin, Jetpack Compose, Gradle, Android Emulator</td>
 </tr>
 <tr>
 <td>بینایی ماشین</td>
-<td>OpenCV</td>
-</tr>
-<tr>
-<td>ویندوز Native</td>
-<td>Win32 API, CNG, Hotkeys, GUI utilities</td>
+<td>OpenCV, image processing experiments</td>
 </tr>
 <tr>
 <td>خط فرمان</td>
-<td>PowerShell, CMD, colorful terminal menus, EXE tools</td>
+<td>PowerShell, CMD, colorful menus, interactive terminal tools</td>
 </tr>
 <tr>
 <td>امبدد</td>
@@ -697,7 +546,7 @@ My preferred development approach:
 </tr>
 <tr>
 <td>بسته‌بندی</td>
-<td>Inno Setup</td>
+<td>Inno Setup, EXE tool creation</td>
 </tr>
 <tr>
 <td>پایتون</td>
@@ -714,10 +563,10 @@ My preferred development approach:
 ## سبک معماری مورد علاقه من
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Modular+Design;Clean+Project+Structure;Signal+and+Slot+Architecture;Reusable+Components;Practical+Software+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2300&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Modular+Design;Clean+Project+Structure;Readable+Code;Reusable+Components;Signal+and+Slot+Architecture;Practical+Software+Engineering" alt="Architecture Typing SVG" />
 </div>
 
-من ساختارهایی را ترجیح می‌دهم که فهمیدن و گسترش دادنشان ساده باشد. معمولاً تلاش می‌کنم رابط کاربری، منطق برنامه، ذخیره‌سازی و بخش‌های وابسته به سیستم‌عامل را تا حد امکان جدا نگه دارم.
+من ساختارهایی را ترجیح می‌دهم که فهمیدن، دیباگ کردن و گسترش دادنشان ساده باشد. معمولاً تلاش می‌کنم رابط کاربری، منطق برنامه، ذخیره‌سازی و بخش‌های وابسته به سیستم‌عامل را تا حد امکان جدا نگه دارم.
 
 روش کاری مورد علاقه‌ام:
 
@@ -734,24 +583,27 @@ My preferred development approach:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=900&color=F7D747&center=true&vCenter=true&width=900&lines=C%2B%2B+and+Qt+Desktop+Apps;Android+Apps+with+Kotlin+Compose;Computer+Vision+Experiments;Python+Automation+Tools;PowerShell+and+CMD+Utilities;ESP32+Projects+with+ESP-IDF;Assembly+and+Low-Level+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=850&color=F7D747&center=true&vCenter=true&width=950&lines=C%2B%2B+and+Qt+Desktop+Applications;Android+Apps+with+Kotlin+Compose;Python+Automation+and+Utility+Tools;Computer+Vision+Experiments;PowerShell+and+CMD+Applications;ESP32+Projects+with+ESP-IDF;Assembly+and+Low-Level+Programming" alt="Current Focus Typing SVG" />
 
 </div>
 
 ---
 
-## آمار GitHub
+## نمای کلی GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-r-m-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-r-m-a&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-r-m-a&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<br /><br />
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s-r-m-a&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s-r-m-a&theme=tokyonight" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=s-r-m-a&theme=tokyonight&hide_border=true" />
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=s-r-m-a&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
@@ -759,20 +611,8 @@ My preferred development approach:
 ## نمودار فعالیت
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s-r-m-a&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
----
-
-## انیمیشن مشارکت‌ها
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s-r-m-a/s-r-m-a/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s-r-m-a/s-r-m-a/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/s-r-m-a/s-r-m-a/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s-r-m-a&theme=tokyo-night&hide_border=true&area=true&custom_title=Reza%27s%20GitHub%20Activity" />
 
 </div>
 
@@ -790,22 +630,54 @@ My preferred development approach:
 
 ---
 
-## ارتباط با من
+## ارتباط با من و کانال‌ها
 
 <div align="center">
 
-<a href="https://github.com/s-r-m-a">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="mailto:irannavyreza@gmail.com">
+  <img src="https://img.shields.io/badge/Email-irannavyreza%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="mailto:irannavyreza@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+<a href="https://github.com/s-r-m-a">
+  <img src="https://img.shields.io/badge/GitHub-s--r--m--a-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br /><br />
+
+<a href="https://ble.ir/YOUR_BALE_CHANNEL">
+  <img src="https://img.shields.io/badge/Bale-Channel-00AEEF?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://rubika.ir/YOUR_RUBIKA_CHANNEL">
+  <img src="https://img.shields.io/badge/Rubika-Channel-8A2BE2?style=for-the-badge&logo=googlemessages&logoColor=white" />
+</a>
+
+<a href="https://splus.ir/YOUR_SOROUSH_CHANNEL">
+  <img src="https://img.shields.io/badge/Soroush-Channel-FF7A00?style=for-the-badge&logo=googlechat&logoColor=white" />
+</a>
+
+<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
+  <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+ایمیل: **irannavyreza@gmail.com**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&customColorList=6,11,20,24,30&section=footer&text=Thanks%20for%20visiting!&fontSize=34&fontAlign=50&fontAlignY=65&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile;Building+tools%2C+learning+every+day%2C+and+improving+step+by+step" alt="Footer Typing SVG" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:2c5364,50:203a43,100:0f2027&section=footer&fontColor=ffffff&animation=twinkling" />
+
 </div>
