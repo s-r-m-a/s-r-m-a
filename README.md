@@ -331,7 +331,7 @@ My usual development approach:
   <img src="https://img.shields.io/badge/Soroush-Channel-FF7A00?style=for-the-badge&logo=googlechat&logoColor=white" />
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
+<a href="https://t.me/retool_com">
   <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
@@ -656,7 +656,7 @@ Email: **irannavyreza@gmail.com**
   <img src="https://img.shields.io/badge/Soroush-Channel-FF7A00?style=for-the-badge&logo=googlechat&logoColor=white" />
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
+<a href="https://t.me/retool_com">
   <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
